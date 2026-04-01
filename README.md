@@ -15,12 +15,20 @@ Assignment Overview
 This repository contains two complete Java assignments demonstrating:
 
  Object-Oriented Programming (OOP)
+ 
  Arrays & Strings
+ 
  Inheritance & Polymorphism
+ 
  Abstract Classes
+ 
  Exception Handling
+ 
  Multithreading & Synchronization
+ 
  Collection Framework
+ 
  File Handling & Networking
+ 
  GUI Development (Swing)
 
